@@ -1,0 +1,9 @@
+7
+a
+am
+at
+are
+cat
+mat
+meat
+// turning a to meat with just length.
